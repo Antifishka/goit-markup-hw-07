@@ -37,10 +37,10 @@ body {
 .section-title {
   margin-bottom: 50px;
   color: var(--secondary-text-color);
+  text-align: center;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
-  text-align: center;
   letter-spacing: 0.03em;
 }
 
@@ -107,11 +107,11 @@ p {
   border: none;
   background-color: var(--accent-color);
   color: var(--white-text-color);
+  cursor: pointer;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.06em;
-  cursor: pointer;
   -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
@@ -568,10 +568,10 @@ p {
   border-radius: 4px;
   color: var(--secondary-text-color);
   background-color: #F5F4FA;
+  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
-  text-align: center;
   letter-spacing: 0.03em;
   cursor: pointer;
   -webkit-transition: background-color var(--animation), color var(--animation), -webkit-box-shadow var(--animation);
